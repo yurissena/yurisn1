@@ -22,9 +22,9 @@ I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX desig
 ### :octocat: GitHub Statistics
 
 <a href="https://github.com/ysn0/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github.com/mateusbmp/">
+<a href="https://github.com/ysn0/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysn0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
 </a>
 
