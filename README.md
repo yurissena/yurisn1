@@ -4,9 +4,9 @@ Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/-yurisena-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuri-sena-6b140520a/)](https://www.linkedin.com/in/yuri-sena-6b140520a/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-yurisena10-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yurisena10/)](https://instagram.com/yurisena10 "Instagram") [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-Enthusiast of the best web development technologies. 
+Enthusiast of the best web development technologies & UI/UX design. 
 
-Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me.
+Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me on my socials.
 
 - 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
@@ -17,3 +17,12 @@ Always open to collaborating on projects and innovative ideas. Find out more abo
 - ⚙️ I also use and work: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=flat&logo=Bootstrap) ![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=flat&logo=Laravel) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab) 
 
 - 🌱 Learning all about: ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL)
+
+
+### :octocat: GitHub Statistics
+
+<a href="https://github.com/ysn0/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+</a>
+
+![](https://hit.yhype.me/github/profile?user_id=42280089)
