@@ -1,14 +1,14 @@
-# Yuri Sena
+# Hello World! I'm Yuri Sena <img src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="40px">
 
-Computer Science Student
+### Nice to meet you! 
 
+### 😉 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-yurisena-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yuri-sena-6b140520a/)](https://www.linkedin.com/in/yuri-sena-6b140520a/ "LinkedIn") [![Instagram](https://img.shields.io/badge/-yurisena10-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/yurisena10/)](https://instagram.com/yurisena10 "Instagram") [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-Enthusiast of the best web development technologies & UI/UX design. 
+I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX design. Always open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
 
-Always open to collaborating on projects and innovative ideas. Find out more about me and feel free to connect with me on my socials.
-
-- 🔭 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
+### 🧑🏽‍💻 Things about me
+- 🎓 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
 - 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
