@@ -20,8 +20,7 @@ I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX desig
 ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3) 
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=MySQL&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)
 
 - ⚙️ I also use and work: 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=flat&logo=Bootstrap) 
