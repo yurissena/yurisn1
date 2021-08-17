@@ -1,14 +1,12 @@
 # Hello World! Welcome to my profile!!<img src="https://media.giphy.com/media/l1BgQBLMt8U8moCs0/giphy.gif" width="35px">
-
-Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the best web development technologies. Open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
-
-### 😉 Call me in:
 [![LinkedIn](https://img.shields.io/badge/-yurisn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/yurisn/)](https://www.linkedin.com/in/yurisn/ "LinkedIn") 
 [![Instagram](https://img.shields.io/badge/-yurisena10-purple?style=for-the-badge&logo=Instagram&logoColor=white&color=black&link=https://instagram.com/yurisena10/)](https://instagram.com/yurisena10 "Instagram") 
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-### 🧑🏽‍💻 About me:
+Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the best web development technologies. Open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
+
+## 🧑🏽‍💻 About me:
 - 🎓 Studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
 - 🏢 Working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
@@ -32,9 +30,6 @@ Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the 
 ![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) 
 ![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
-
-
-### :octocat: GitHub Statistics:
 
 <a href="https://github.com/ysn0/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
