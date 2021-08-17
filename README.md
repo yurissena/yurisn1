@@ -1,19 +1,17 @@
-# Hello World! I'm Yuri Sena <img src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="40px">
+# Hello World! Welcome to my profile!!<img src="https://media.giphy.com/media/l1BgQBLMt8U8moCs0/giphy.gif" width="35px">
 
-### Nice to meet you! 
+Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the best web development technologies. Open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
 
-### 😉 Connect with me
+### 😉 Call me in:
 [![LinkedIn](https://img.shields.io/badge/-yurisn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/yurisn/)](https://www.linkedin.com/in/yurisn/ "LinkedIn") 
 [![Instagram](https://img.shields.io/badge/-yurisena10-purple?style=for-the-badge&logo=Instagram&logoColor=white&color=black&link=https://instagram.com/yurisena10/)](https://instagram.com/yurisena10 "Instagram") 
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX design. Always open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
+### 🧑🏽‍💻 About me:
+- 🎓 Studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
-### 🧑🏽‍💻 Things about me
-- 🎓 I’m currently studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
-
-- 🏢 I'm currently working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
+- 🏢 Working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
 - 💻 I work using: 
 ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white) 
@@ -36,7 +34,7 @@ I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX desig
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
 
 
-### :octocat: GitHub Statistics
+### :octocat: GitHub Statistics:
 
 <a href="https://github.com/ysn0/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
@@ -46,3 +44,8 @@ I'm Yuri Sena, enthusiast of the best web development technologies & UI/UX desig
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=42280089)
+
+![Snake animation](https://github.com/ysn0/ysn0/blob/output/github-contribution-grid-snake.svg)
+
+
+
