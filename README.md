@@ -9,7 +9,7 @@ Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the 
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
 ### 🧑🏽‍💻 About me:
-- 🎓 Studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
+- 🎓 Studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes") is 
 
 - 🏢 Working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
