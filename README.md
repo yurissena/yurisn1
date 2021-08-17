@@ -37,10 +37,10 @@ Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the 
 ### :octocat: GitHub Statistics:
 
 <a href="https://github.com/ysn0/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/ysn0/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysn0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysn0&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=42280089)
