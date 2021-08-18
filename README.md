@@ -12,14 +12,14 @@ Hi there! My name is Yuri Sena a Computer Science student and enthusiast of web 
 - 🏢 Working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
 ## 💻 I work using: 
-![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
-![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
-![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
-![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=for-the-badge&logo=Laravel&logoColor=white&color=red) 
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub) 
+  ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
+  ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+  ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
+  ![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=for-the-badge&logo=Laravel&logoColor=white&color=red) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub) 
 
 <a href="https://github.com/ysn0/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
