@@ -21,8 +21,6 @@ Hi there! My name is Yuri Sena a Computer Science student and enthusiast of web 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub) 
 
-## :octocat: My GitHub Statistics: 
-
 <a href="https://github.com/ysn0/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
