@@ -4,32 +4,24 @@
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-Hi there! My name is Yuri Sena a Computer Science student and enthusiast of the best web development technologies. Open to collaborating on projects and innovative ideas, but looking for time to play some games and enjoying the life.
+Hi there! My name is Yuri Sena a Computer Science student and enthusiast of web development. Open to cooperate on projects and new ideas, but looking for time to play some games and enjoying the life.
 
 ## 🧑🏽‍💻 About me:
 - 🎓 Studying Computer Science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes")
 
 - 🏢 Working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
-- 💻 I work using: 
-![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white) 
-![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3) 
-![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=MySQL&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)
+## 💻 I work using: 
+![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
+![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
+![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=for-the-badge&logo=Laravel&logoColor=white&color=red) 
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub) 
 
-- ⚙️ I also use and work: 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=flat&logo=Bootstrap) 
-![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=flat&logo=Laravel&logoColor=white&color=red) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript) 
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=GitLab) 
-
-- 🌱 Learning all about: 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python ) 
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django) 
-![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat&logo=Dart) 
-![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=Flutter) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)
+## :octocat: My GitHub Statistics: 
 
 <a href="https://github.com/ysn0/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ysn0&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
