@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 
-Hi there! My name is Yuri Sena a Computer Science student in [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes") and enthusiast of web development. Constantly open to cooperate on projects and new ideas, but looking for time to play some games and enjoying the life.
+Hi there! My name is Yuri Sena, I'm a Computer Science student in [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes") and enthusiast of web development. Constantly open to cooperate on projects and new ideas, but looking for time to play some games and enjoying the life.
 
 Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
