@@ -1,8 +1,9 @@
 # Hello World! Welcome to my profile!!<img src="https://media.giphy.com/media/l1BgQBLMt8U8moCs0/giphy.gif" width="35px">
 [![LinkedIn](https://img.shields.io/badge/-yurisn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/yurisn/)](https://www.linkedin.com/in/yurisn/ "LinkedIn") 
-[![Instagram](https://img.shields.io/badge/-yurisena10-purple?style=for-the-badge&logo=Instagram&logoColor=white&color=black&link=https://instagram.com/yurisena10/)](https://instagram.com/yurisena10 "Instagram") 
-[![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
+[![Instagram](https://img.shields.io/badge/-@yurisn-purple?style=for-the-badge&logo=dev.to&logoColor=white&color=black&link=https://dev.to/yurisn/)](https://dev.to/yurisn/ "Dev.to")
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
+[![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
+
 
 Hi there! My name is Yuri Sena, I'm a Computer Science student in [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes") and enthusiast of web development. Constantly open to cooperate on projects and new ideas, but looking for time to play some games and enjoying the life.
 
