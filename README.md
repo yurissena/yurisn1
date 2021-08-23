@@ -17,7 +17,7 @@ Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Uniq
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=for-the-badge&logo=Laravel&logoColor=white&color=red) 
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub) 
+  ![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git) 
 
 <a href="https://github.com/yurisn1/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yurisn1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
