@@ -1,4 +1,4 @@
-# Hello World! Welcome to my profile!!<img src="https://media.giphy.com/media/l1BgQBLMt8U8moCs0/giphy.gif" width="35px">
+# Hello World! Welcome to my profile!!
 [![LinkedIn](https://img.shields.io/badge/-yurisn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/yurisn/)](https://www.linkedin.com/in/yurisn/ "LinkedIn") 
 [![Instagram](https://img.shields.io/badge/-@yurisn-purple?style=for-the-badge&logo=dev.to&logoColor=white&color=black&link=https://dev.to/yurisn/)](https://dev.to/yurisn/ "Dev.to")
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
