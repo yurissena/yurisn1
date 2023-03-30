@@ -5,17 +5,17 @@
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 
 
-Hi there! My name is Yuri Sena, I'm a Computer Science student in [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes") and enthusiast of web development. Constantly open to cooperate on projects and new ideas, but looking for time to play some games and enjoying the life.
+Hi there! My name is Yuri Sena, I'm software engineer, enthusiast of web development and graduated in computer science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes"). Constantly open to cooperate on projects and new ideas, but looking for time to enjoying the life.
 
 Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
 
 ## 💻 I work with: 
   ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
   ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FCA121?style=for-the-badge&logo=Laravel&logoColor=white&color=red) 
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ccc?style=for-the-badge&logo=Bootstrap) 
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git) 
 
