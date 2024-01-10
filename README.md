@@ -1,6 +1,5 @@
 # Hello World! Welcome to my profile!!
 [![LinkedIn](https://img.shields.io/badge/-yurisn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=black&link=https://www.linkedin.com/in/yurisn/)](https://www.linkedin.com/in/yurisn/ "LinkedIn") 
-[![Instagram](https://img.shields.io/badge/-@yurisn-purple?style=for-the-badge&logo=dev.to&logoColor=white&color=black&link=https://dev.to/yurisn/)](https://dev.to/yurisn/ "Dev.to")
 [![E-mail](https://img.shields.io/badge/-dev.yurisn@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&color=black&link=mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri%20)](mailto:dev.yurisn@gmail.com?subject=Olá,%20Yuri!%20 "E-mail")
 [![Telegram](https://img.shields.io/badge/-@yurisn1-0088CC?style=for-the-badge&logo=Telegram&logoColor=white&color=black&link=https://t.me/yurisn1/)](https://t.me/yurisn1 "Telegram") 
 
@@ -11,6 +10,7 @@ Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Uniq
 
 ## 💻 I work with: 
   ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
+  ![React.Js](https://img.shields.io/badge/-React?style=for-the-badge&logo=React&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
   ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
