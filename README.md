@@ -10,7 +10,7 @@ Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Uniq
 
 ## 💻 I work with: 
   ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
-  ![React.Js](https://img.shields.io/badge/-React?style=for-the-badge&logo=React&logoColor=white) 
+  ![React.Js](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript) 
   ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) 
   ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=for-the-badge&logo=CSS3) 
