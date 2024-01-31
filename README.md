@@ -19,13 +19,13 @@ Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Uniq
   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git) 
 
-<a href="https://github.com/yurisn1/">
+<a href="https://github.com/yurissena/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yurisn1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
-<a href="https://github.com/yurisn1/">
+<a href="https://github.com/yurissena/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisn1&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=42280089)
 
-![Snake animation](https://github.com/yurisn1/yurisn1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yurissena/yurissena/blob/output/github-contribution-grid-snake.svg)
