@@ -20,10 +20,10 @@ Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Uniq
   ![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=Git) 
 
 <a href="https://github.com/yurissena/">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yurisn1&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=yurissena&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/yurissena/">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisn1&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurissena&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
 </a>
 
 ![](https://hit.yhype.me/github/profile?user_id=42280089)
